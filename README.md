@@ -1,7 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : VINISHRAJ R
-# Reg no: 212223230243
-# Date of experiment : 10.03.25
+
+## Name : VINISHRAJ R
+## Reg no: 212223230243
+## Date of experiment : 10.03.25
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
@@ -82,7 +83,7 @@ ADD AL,BL
 HLT
 ```
 ## Output  
-![Screenshot 2024-10-23 083131](https://github.com/user-attachments/assets/d3f94fa3-b32d-40cd-8a4d-e0b966e90cb6)
+![Screenshot 2025-03-10 083131](https://github.com/user-attachments/assets/d3f94fa3-b32d-40cd-8a4d-e0b966e90cb6)
 
 ## SUBTRACTION of 8 bit numbers  ALP 
 ```
@@ -92,7 +93,7 @@ SUB AL,BL
 HLT
 ```
 ## Output  
-![Screenshot 2024-09-23 083143](https://github.com/user-attachments/assets/24ed7ee9-c1d6-4a00-90a0-a638ae5333f5)
+![Screenshot 2025-03-10 083143](https://github.com/user-attachments/assets/24ed7ee9-c1d6-4a00-90a0-a638ae5333f5)
 
 ## MULTIPLICATION of 8 bit ALP 
 ```
@@ -102,7 +103,7 @@ MUL BL
 HLT
 ```
 ## Output  
-![Screenshot 2024-09-23 083156](https://github.com/user-attachments/assets/cfba8ac3-8879-4368-a7ce-066b2e086662)
+![Screenshot 2025-03-10 083156](https://github.com/user-attachments/assets/cfba8ac3-8879-4368-a7ce-066b2e086662)
 
 
 ## DIVISION of 8 bit ALP 
@@ -113,7 +114,7 @@ DIV BL
 HLT
 ```
 ## Output  
-![Screenshot 2024-09-23 083207](https://github.com/user-attachments/assets/40c73086-b83f-490e-92d1-22a5e800b19c)
+![Screenshot 2025-03-10 083207](https://github.com/user-attachments/assets/40c73086-b83f-490e-92d1-22a5e800b19c)
 
 ## AND of 8 bit ALP 
 ```
@@ -123,7 +124,7 @@ AND AL,BL
 HLT
 ```
 ## Output 
-![Screenshot 2024-09-23 083217](https://github.com/user-attachments/assets/0f351eee-372b-420e-a411-8115a7c68c79)
+![Screenshot 2025-03-10 083217](https://github.com/user-attachments/assets/0f351eee-372b-420e-a411-8115a7c68c79)
 
 ## OR of 8 bit ALP 
 ```
@@ -133,7 +134,7 @@ OR AL,BL
 HLT
 ```
 ## Output 
-![Screenshot 2024-09-23 083227](https://github.com/user-attachments/assets/61a91fce-f57e-4048-9be3-effe2cabb5a1)
+![Screenshot 2025-03-10 083227](https://github.com/user-attachments/assets/61a91fce-f57e-4048-9be3-effe2cabb5a1)
 
 ## NOT of 8 bit ALP 
 ```
@@ -142,7 +143,7 @@ NOT AL
 HLT
 ```
 ## Output 
-![Screenshot 2024-09-23 083238](https://github.com/user-attachments/assets/fbdae277-1ced-4b2b-8963-4577b2033eaa)
+![Screenshot 2025-03-10 083238](https://github.com/user-attachments/assets/fbdae277-1ced-4b2b-8963-4577b2033eaa)
 
 ## XOR of 8 bit ALP 
 ```
@@ -152,7 +153,7 @@ XOR AL,BL
 HLT
 ```
 ## Output 
-)![Screenshot 2024-09-23 083253](https://github.com/user-attachments/assets/c64cff02-66f4-4842-a691-dea4e3e9caf7)
+)![Screenshot 2025-03-10 083253](https://github.com/user-attachments/assets/c64cff02-66f4-4842-a691-dea4e3e9caf7)
 
 ## Result :
-Thus to Write and execute ALP on fundamental arithmetic and logical operations are verified successfully.
+Thus the program has been executed successfully.
